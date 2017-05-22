@@ -1,0 +1,64 @@
+* {
+  font-family: monospace;
+} 
+
+.title {
+  color: beige;
+  font-size: 32px;
+}
+
+.container {
+  font-size: 24px;
+  border-radius: 2px;
+  text-align:center;
+  padding: 5%;
+  margin: 5% auto;
+  background-color:darkslategrey;
+  display: block;
+}
+
+.quote {
+  background-color: beige;
+  padding: 20px;
+}
+
+.button {
+  font-size: 22px;
+  border-radius:2px;
+  border: none;
+  padding: 5px;
+  margin: 5px auto;
+  display: inline-block;
+}
+
+.getquote {
+  background-color: indianred;
+}
+
+.tweet {
+  background-color: powderblue;
+}
+
+.quoteauthor {
+  padding: 10px;
+  text-align: right;
+  font-weight: bold;
+  color: indianred;
+}
+
+.quotetext {
+  text-align: left;
+}
+
+body {
+    background-color: black;
+}
+
+.credit {
+  text-align: center;
+  color:indianred;
+}
+
+a {
+  color: beige;
+}
